@@ -1,0 +1,13 @@
+{
+"companyName": "NWeber",
+"productName": "10N1_Fonc_1",
+"dataUrl": "WEBglFIN.data.unityweb",
+"wasmCodeUrl": "WEBglFIN.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBglFIN.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
